@@ -40,6 +40,7 @@ O esquema de pontuação é por tempo. Quanto mais tempo ela sobrevive no jogo, 
 
 ### Personas
 1. **QUEM SÃO OS PERSONAGENS DO JOGO**
+
 Maya, a Exploradora da Selva
 Maya é uma destemida exploradora que se aventura pela misteriosa e exuberante Selva dos Mistérios. Seu objetivo é desvendar os segredos antigos e proteger a flora e a fauna da selva dos perigos que a ameaçam.
 
