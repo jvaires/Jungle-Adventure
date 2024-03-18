@@ -4,7 +4,7 @@
 
 ## Motivação
 
-DESCREVA A MOTIVAÇÃO DO PROJETO.
+Desde criança sempre gostei de jogos como Mario. Então resolvi criar um jogo de plataforma 2D chamado "Jungle Adventure"
 
 ## Objetivo
 
@@ -12,7 +12,8 @@ QUAL É O OBJETIVO DO PROJETO.
 
 ## Valor Agregado
 
-QUAL É A INOVAÇÃO / QUAL É VANTAGEM / O QUE É NOVO.
+O diferencial do jogo "Jungle Adventure" está em sua atmosfera imersiva e na integração de elementos de raciocínio rápido com a jogabilidade clássica de plataforma. 
+Personagem carismático também é um diferencial: Maya é uma protagonista carismática e cativante, com uma personalidade forte e objetivos claros.
 
 ## Fases
 
@@ -27,7 +28,7 @@ DESCREVA AS FASES DO JOGO.
 
 ## Esquema de Pontuação
 
-QUAL É O ESQUEMA DE PONTUAÇÃO.
+O esquema de pontuação é por tempo. Quanto mais tempo ela sobrevive no jogo, mais pontos ela ganha.
 
 
 ## Requisitos
@@ -38,9 +39,13 @@ QUAL É O ESQUEMA DE PONTUAÇÃO.
 2. 
 
 ### Personas
-
 1. **QUEM SÃO OS PERSONAGENS DO JOGO**
+Maya, a Exploradora da Selva
+Maya é uma destemida exploradora que se aventura pela misteriosa e exuberante Selva dos Mistérios. Seu objetivo é desvendar os segredos antigos e proteger a flora e a fauna da selva dos perigos que a ameaçam.
 
+Maya é conhecida por sua agilidade e inteligência. Ela é uma especialista em parkour e pode se mover rapidamente entre as árvores e desvendar os enigmas da selva. Com muita força e coragem, ela enfrenta desafios emocionantes e descobre tesouros perdidos.
+
+Mas nem tudo é fácil na Selva dos Mistérios. Maya terá que enfrentar criaturas selvagens, armadilhas antigas. Com coragem e determinação, ela está determinada a proteger a selva e desvendar seus mistérios, custe o que custar.
 ## Protótipos de Tela
 
 DIAGRAMA COM O PROTOTIPO DO JOGO
@@ -48,3 +53,7 @@ DIAGRAMA COM O PROTOTIPO DO JOGO
 ## Tecnologias e Ferramentas utilizadas
 
 1. QUAIS TECNOLOGIAS UTILIZADAS.
+- HTML
+- CSS 
+- JavaScript
+- Phaser3
